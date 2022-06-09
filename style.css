@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #c8c8c8
+    font-family: 'Merriweather Sans', sans-serif
+}
+
+  /* otro */
+
+  .navbar_style {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 15px;
+    background-color: #c8c8c8; }
+  
+  .nav-link:hover {
+    border-bottom: 3p solid rgb(0, 0, 0);
+    transition: 0.3s; }
+  
+  body {
+    background-color: #c8c8c8; }
+  
+  .body_style {
+    background-color: #c8c8c8;
+    color: black;
+    font-family: 'Merriweather Sans', sans-serif;;
+    font-size: 14px; }
+  
+  h1 {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 60px; }
+  
+  h2 {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 40px; }
+  
+  .navbar_style ul li a:hover {
+    color: #c8c8c8 !important;
+    border-bottom: 1px solid black; }
+  
+  .navbar-nav .nav-link {
+    color: black !important; }
+  
+  .footer_style {
+    background-color: #c8c8c8;
+    color: black;
+    font-size: 15px; }
+  
+  .footer_style a {
+    margin: 2%; }
+  
+  
+  
+  /* TOUR*/
+  .list-group-item {
+    background-color: black;
+    font-size: 20px; }
+  
+  .btn-primary {
+    background-color: #c8c8c8 !important; }
+  
+  .btn-primary:hover {
+    background-color: #c8c8c8 !important;
+    transition: 0.5s; }
+  
+  /* GALERIA */
+  .obj_flex {
+    width: 100%;
+    height: 0;
+    padding-top: 56.25%;
+    position: relative; }
+  
+  
+  /* CONTACTO */
+  .contact_main {
+    display: flex;
+    flex-direction: row;
+    width: 100%; }
+    .contact_main .contacto_text {
+      width: 60%;
+      margin: 20px; }
+    .contact_main .contact_form {
+      width: 40%;
+      padding: 20px; }
+  
+      /*otro*/
+
+      .padre-flex{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 600px;
+    
+    
+    }
+      
